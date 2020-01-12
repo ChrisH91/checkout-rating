@@ -1,0 +1,11 @@
+{
+  "firebase": {
+    "apiKey": "AIzaSyDqgkie43NYUawBV9B4kxBgVcfR_IKVNJM",
+    "authDomain": "checkout-rating.firebaseapp.com",
+    "databaseURL": "https://checkout-rating.firebaseio.com",
+    "projectId": "checkout-rating",
+    "storageBucket": "checkout-rating.appspot.com",
+    "messagingSenderId": "797805259276",
+    "appId": "1:797805259276:web:cb13c42a03fffbe2279c29"
+  }
+}
